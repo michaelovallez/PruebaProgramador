@@ -1,0 +1,15 @@
+Se desea realizar un pequeño programa que pueda interpretar varios archivos de medios de pago, se incluyen 3 archivos para interprertar y los manuales de implementacion.
+Se evaluara la calidad del codigo como tambien los conceptos aplicados.
+No vamos a poner limite de tiempo para la resolucion pero si necesitamos una respuesta final completa o imcompleta del ejercicio.
+El ejercicio debe ser subido a github y enviar solo el link del repositorio.
+
+Los archivos a procesar son rend-rev* y rend-cob* que pertebecen al manual pagodirecto y 888ENTES* que pertenece al manual de pluspagos.
+
+Objetivos Obligatorios:
+
+1 - Cada procesador de archivos debe tener instrucciones definidas comunes a fin de ser reutilizables.
+2 - Mostrar los resultados interpretados en una tabla mostrando solo nro de transaccion, monto , identificador, fecha de pago, medio de pago
+3 - Una vez interpretados los archivos el programa debe informar el total de registros cobrados, monto total de la cobranza y el valor promedio por transaccion por medio de pago procesado.
+
+cualquier duda o consulta enviarla a adupuy@cobrodigital.com con tu nombre y el puesto en el asunto.
+Te deseo mucha suerte.
